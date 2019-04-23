@@ -1,4 +1,4 @@
-token=NTEwNzk3MzU1NTU4MjQwMjY2.XL8C9Q.Hg-5cxBeerPbAll8Rd8vqd7hmhg
+token=NTEwNzk3MzU1NTU4MjQwMjY2.XL8Dpw.u7R3MLH6z_tQ1mjNePHmDZPb7wY
 owner=498132773878628353
 prefix=5
 game=Crazy World
