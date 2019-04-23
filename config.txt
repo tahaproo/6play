@@ -1,6 +1,6 @@
 token=NTEwNzk3MzU1NTU4MjQwMjY2.DsjMTg.Fs6rhhC1szx8VkFgwx77TUEXjyM
 owner=498132773878628353
-prefix=6
+prefix=5
 game=Crazy World
 stayinchannel=true 
 songinstatus=true
